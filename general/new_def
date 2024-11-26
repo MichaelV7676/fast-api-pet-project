@@ -1,0 +1,2 @@
+def new_add(x,y):
+  print(x+y)
