@@ -6,3 +6,6 @@ def new(h):
 
 def new_2(h):
     return h*2
+
+def super(v):
+    return v*2
